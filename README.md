@@ -6,7 +6,11 @@ Heart disease prediction System.This app is deployed in heroku The data is taken
 sudo pip install -r requirements.txt
 
 # Collaborators
+
 NIKHIL AMALA JERRIN J
+
 SNEHA N
+
 KISHORE S
+
 CECIL IGNATIUS HERMINA
